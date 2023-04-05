@@ -1,0 +1,38 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    text-align: center;
+    margin:50px;
+    background-color: blanchedalmond;
+    height: 50px;
+    padding-top: 20px;
+}
+.linkcontainer{
+    text-align: center;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+}
+#recimg{
+    width: 500px;
+    margin-left: 16%;
+}
+#rech3{
+    font-size: 30px;
+}
+#recul, #recol{
+    background-color: blanchedalmond;
+    width:450px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+}
+#recp{
+    background-color: blanchedalmond;
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+}
